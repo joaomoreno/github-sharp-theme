@@ -13,7 +13,7 @@
     "editorGroup.border": "#cecece",
     "editorGroupHeader.tabsBackground": "#fafbfc",
     "editorGroupHeader.tabsBorder": "#e1e4e8",
-    "editorIndentGuide.background": "#eeeeee",
+    "editorIndentGuide.background1": "#eeeeee",
     "editorLineNumber.foreground": "#cccccc",
     "focusBorder": "#4b4b4b",
     "input.border": "#d1d1d1",
@@ -57,12 +57,14 @@
     "titleBar.activeBackground": "#24292e",
     "titleBar.activeForeground": "#cccccc",
     "titleBar.border": "#ff000000",
-    "titleBar.inactiveBackground": "#24292e"
+    "titleBar.inactiveBackground": "#24292e",
+    "diffEditor.unchangedRegionBackground": "#f5f5f5",
+    "diffEditor.unchangedRegionShadow": "#d3d3d3",
+    "badge.background": "#cad7e2",
   },
   "tokenColors": [
     {
       "settings": {
-        "background": "#ffffffff",
         "foreground": "#24292eff"
       }
     },
